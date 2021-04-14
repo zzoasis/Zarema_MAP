@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="startMarker_id">m0</string>
+    <string name="startMarker_title">Павлодар</string>
+    <string name="startMarker_info">
+        <![CDATA[
+               <b>Улица Академика Чокина</b><BR>
+        ]]>
+        </string>
+    <string name="startMarker_file"></string>
+
+    <!--  -->
+
+    <string name="marker1_id">m1</string>
+    <string name="marker1_title">HalykBank</string>
+    <string name="marker1_txt_click">Народный банк Казахстана</string>
+    <string name="marker1_info">
+         <![CDATA[
+        <b>Halyk Bank</b> <BR>
+        системообразующий универсальный коммерческий банк страны.<BR>
+        Банк является, частным банком 2-го уровня, форма юридического
+        лица «Акционерное Общество».<BR>
+        Полное фирменное наименование на казахском языке — «Қазақстан Халық жинақ банкі» акционерлік қоғамы,
+        на русском языке — акционерное общество «Народный сберегательный банк Казахстана».<BR>
+        Телефон: +7-800-080-00-59<BR>
+        Сайт: https://halykbank.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker1_file">file:///android_asset/halykbank/index.html</string>
+
+    <!--  -->
+
+    <string name="marker2_id">m2</string>
+    <string name="marker2_title">Атриум</string>
+    <string name="marker2_txt_click">Торговый центр "Атриум"</string>
+    <string name="marker2_info">
+        <![CDATA[
+        <b>Торговый центр "Атриум"</b> <BR>
+        Если вы находитесь рядом, обязательно загляните в торговый дом Атриум.<BR>
+        Здесь вы найдете массу интересных и полезных вещей.
+        Для вас представлены только проверенные товары по выгодным ценам.<BR>
+        Телефон: +7-718-267-91-43<BR>
+        Сайт: https://www.instagram.com/atrium_pavlodar/<BR>
+        ]]>
+        </string>
+    <string name="marker2_file">file:///android_asset/atrium/index.html</string>
+
+    <!--  -->
+
+    <string name="marker3_id">m3</string>
+    <string name="marker3_title">ForteBank</string>
+    <string name="marker3_txt_click">Казахстанский частный банк ForteBank</string>
+    <string name="marker3_info">
+        <![CDATA[
+        <b>ForteBank</b> <BR>
+        - казахстанский частный банк, входящий в пятёрку крупнейших банков Казахстана.<BR>
+        Филиальная сеть по всему Казахстану — 20 филиалов и 100 отделений в 34 городах и посёлках.<BR>
+        Телефон:+7 800-080-08-19<BR>
+        Сайт: https://www.forte.kz/<BR>
+        ]]>
+        </string>
+    <string name="marker3_file">file:///android_asset/fortebank/index.html</string>
+
+    <!--  -->
+
+    <string name="marker4_id">m4</string>
+    <string name="marker4_title">Школа №22</string>
+    <string name="marker4_txt_click">Средняя общеобразовательная школа №22 им. Б. Момышулы</string>
+    <string name="marker4_info">
+        <![CDATA[
+        <b>>Средняя общеобразовательная школа №22</b> <BR>
+        имени Бауыржана Момышулы.<BR>
+        Язык обучения - казахский.<BR>
+        Телефон: +7 7182 34-26-51<BR>
+        Сайт: https://goo.edu.kz/index/fromorg/35/<BR>
+        ]]>
+        </string>
+    <string name="marker4_file">file:///android_asset/school22/index.html</string>
+
+    <!--  -->
+
+    <string name="marker5_id">m5</string>
+    <string name="marker5_title">Ювелирный магазин</string>
+    <string name="marker5_txt_click">Ювелирный дом "Гаухар"</string>
+    <string name="marker5_info">
+        <![CDATA[
+        <b>Ювелирный дом "Гаухар"</b> <BR>
+        работает без выходных и обеда.<BR>
+        Скидки от 15 до 50%<BR>
+        Телефон: +7 7182 67-70-76<BR>
+        Сайт: https://www.instagram.com/jewelry_gauhar_pvl/<BR>
+        ]]>
+        </string>
+    <string name="marker5_file">file:///android_asset/jewelry/index.html</string>
+
+</resources>
